@@ -2,7 +2,7 @@
 
 - 🚀 I'm a FrontEnd Developer
 - 🔭 I have almost a year of experience in web development and infrastructure. I worked on some applications for the culture sector of the State of Piauí in a project that includes many artists from all over my State, in addition to dozens of challenging projects in the Web Development course at Trybe. I have solid knowledge in programming with React, HTML, CSS, OOP, Javascript, node.js, typescript, Redux, Docker and SQL. I'm passionate about technology and interested in application scalability using best development practices, TDD, collaboration and leadership.
-- 📫 Contat me on email: trodrigo734@gmail.com
+- 📫 Contact me on email: trodrigo734@gmail.com
 
 <div>
   <a href="https://github.com/thiagorvianas/">
