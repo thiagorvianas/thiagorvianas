@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! My name is Thiago Viana
 
-<!--
-**thiagorvianas/thiagorvianas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 I'm a FrontEnd Developer
+- 🔭 Atuamente estou estudando C#, .NET, CakePHP.
+- 📫 Contate-me no email: trodrigo734@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/thiagorvianas/">
+</div>
+  
+<div style="display: inline_block"><br>
+  
+  [![My Skills](https://skills.thijs.gg/icons?i=react,js,ts,html,css,docker,git,mysql,nodejs)](https://skills.thijs.gg)
+ 
+</div>
+  
+## Studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![My Skills](https://skills.thijs.gg/icons?i=mongodb)](https://skills.thijs.gg)
+
+  
+ 
+</div>
