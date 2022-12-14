@@ -10,6 +10,8 @@
   
 <div style="display: inline_block"><br>
   
+## Technologies
+  
   [![My Skills](https://skills.thijs.gg/icons?i=react,js,ts,html,css,docker,git,mysql,nodejs)](https://skills.thijs.gg)
  
 </div>
