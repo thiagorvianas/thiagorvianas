@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/thiagorvianas/">
     
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorvianas=true&theme=transparent)
 </div>
   
 <div style="display: inline_block"><br>
