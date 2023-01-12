@@ -10,7 +10,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagorvianas&show_icons=true&theme=radical)
 
   
 ## Technologies
