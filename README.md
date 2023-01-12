@@ -10,7 +10,6 @@
 </div>
   
 <div style="display: inline_block"><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagorvianas&layout=compact)](https://github.com/thiagorvianas/github-readme-stats)
 
   
 ## Technologies
