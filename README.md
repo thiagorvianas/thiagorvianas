@@ -2,6 +2,7 @@
 Fullstack Developer with experience in React.js, Typescript, and Node.js, applying agile methodologies to deliver scalable and high-performance solutions. I have worked on business management systems, educational platforms (EdTech), and digital marketing projects, combining my background in design and marketing to create functional, intuitive, and visually appealing applications.
 
 🚀 Experience in: React.js • Typescript • Node.js • Cypress • MySQL • WordPress • REST API • Git/GitHub
+
 🎯 Interests: Web Development, EdTech, SaaS, Automation, and Open Source Projects
 
 
